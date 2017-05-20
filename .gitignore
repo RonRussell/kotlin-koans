@@ -6,3 +6,5 @@ build
 local.properties
 
 .idea
+.gradle_user_home
+
